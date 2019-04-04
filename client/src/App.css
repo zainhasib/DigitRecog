@@ -1,0 +1,19 @@
+/* Globals */
+
+body {
+    background-color: rgb(206, 206, 206);
+}
+
+.header {
+    margin: 40px;
+}
+
+.canvas-container {
+    width: 80%;
+    margin: auto;
+}
+
+.process-btn {
+    padding: 10px;
+    margin: 20px;
+}
